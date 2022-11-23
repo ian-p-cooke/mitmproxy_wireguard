@@ -7,7 +7,7 @@ publish = false
 
 version = "0.1.18"
 edition = "2021"
-rust-version = "1.58.0"
+rust-version = "1.64.0"
 
 authors = [
     "Fabio Valentini <decathorpe@gmail.com>",
