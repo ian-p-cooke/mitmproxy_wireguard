@@ -1,3 +1,9 @@
+## 0.1.19
+
+- Fix check that prevents initializing multiple TCP connections when receiving duplicate
+  SYN packets.
+- Update dependencies (including tokio 1.22.0). Raises MSRV to 1.64.0.
+
 ## 0.1.18
 
 - Expose the "original" (i.e. not the address inside the WireGuard tunnel) source address
